@@ -39,9 +39,10 @@ Proyek ini menggunakan **Machine Learning** (Random Forest) untuk memprediksi ap
 [Klik di sini untuk menonton demo](https://youtu.be/___GANTI_DENGAN_LINK_ANDA___)
 
 ## Slide Presentasi
-[Link slide (Google Drive)](https://drive.google.com/___GANTI_DENGAN_LINK_ANDA___)
+[Link slide (Google Drive)](https://drive.google.com/file/d/1kIIC9qKz-p14SggqkbSlEMsC4Kt6Rg_4/view?usp=sharing)
 
 ## Video Presentasi
+[Link video (Google Drive)](https://drive.google.com/file/d/1T46Fn1E5-VcCi0O3JfqmNOYhcw4GG7Dq/view?usp=sharing)
 
 ## Laporan
 
