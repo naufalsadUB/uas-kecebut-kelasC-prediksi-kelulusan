@@ -36,7 +36,7 @@ Proyek ini menggunakan **Machine Learning** (Random Forest) untuk memprediksi ap
 3. Pastikan library terinstal: `pandas`, `numpy`, `scikit-learn`, `matplotlib`.
 
 ## Video Demo
-[Klik di sini untuk menonton demo](https://youtu.be/___GANTI_DENGAN_LINK_ANDA___)
+[Link video (Google Drive)](https://drive.google.com/file/d/1aOSg2pBnFvgaRoFRh1JkN2y_Q_J3RgM1/view?usp=sharing)
 
 ## Slide Presentasi
 [Link slide (Google Drive)](https://drive.google.com/file/d/1kIIC9qKz-p14SggqkbSlEMsC4Kt6Rg_4/view?usp=sharing)
@@ -45,6 +45,7 @@ Proyek ini menggunakan **Machine Learning** (Random Forest) untuk memprediksi ap
 [Link video (Google Drive)](https://drive.google.com/file/d/1T46Fn1E5-VcCi0O3JfqmNOYhcw4GG7Dq/view?usp=sharing)
 
 ## Laporan
+[Link laporan (Google Drive)](https://drive.google.com/file/d/12okd19zUuQyIA6Kfr36Cg5hAV26lwSfe/view?usp=sharing)
 
 ## Kontributor
 Nama: Muhammad Naufal Sa'd  
