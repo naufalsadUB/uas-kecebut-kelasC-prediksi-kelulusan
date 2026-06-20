@@ -50,5 +50,6 @@ Proyek ini menggunakan **Machine Learning** (Random Forest) untuk memprediksi ap
 ## Kontributor
 Nama: Muhammad Naufal Sa'd  
 NIM: 235060301111026 
+Universitas Brawijaya | Fakultas Teknik | Teknik Elektro
 
 ---
