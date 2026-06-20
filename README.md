@@ -42,7 +42,7 @@ Proyek ini menggunakan **Machine Learning** (Random Forest) untuk memprediksi ap
 [Link slide (Google Drive)](https://drive.google.com/___GANTI_DENGAN_LINK_ANDA___)
 
 ## Kontributor
-Nama: [Isi nama Anda]  
-NIM: [Isi NIM Anda]
+Nama: Muhammad Naufal Sa'd  
+NIM: 235060301111026 
 
 ---
